@@ -90,22 +90,6 @@ Adaptive Suggestions:
   
 - Focus on task prioritization
 
-📸 Sample Output Screenshots
-
-Screenshots showing:
-
-Task creation
-
-Task completion
-
-Wellness analysis
-
-Burnout risk detection
-
-Summary report
-
-📷 (Add execution screenshots here)
-
 🎯 Internship Task
 
 This project is submitted as the Final Project (A4) under the Java Internship Program conducted by Vault of Codes.
